@@ -1,3 +1,4 @@
+# For details, you can read in ipydb file
 ## I. Goal
 ## II. Current status of the enterprise's network system
 ## III. Risk Assessment Process
